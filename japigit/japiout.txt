@@ -1,0 +1,6 @@
+The current price of AAPL is $135.3700.
+The current price of GOOGL is $2095.0300.
+The current price of FB is $270.5000.
+The current price of MFST is $0.0037.
+The current price of MSFT is $244.9900.
+master version
